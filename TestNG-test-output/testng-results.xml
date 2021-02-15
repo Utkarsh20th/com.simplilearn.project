@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19230" started-at="2021-02-15T13:48:07 UTC" finished-at="2021-02-15T13:48:27 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19230" started-at="2021-02-15T13:48:07 UTC" finished-at="2021-02-15T13:48:27 UTC">
+      <class name="com.project.amazon.test.Amazon_project_TestNG">
+        <test-method status="PASS" signature="instantiate_chromeDriver()[pri:0, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="instantiate_chromeDriver" is-config="true" duration-ms="1084" started-at="2021-02-15T13:48:07 UTC" finished-at="2021-02-15T13:48:08 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiate_chromeDriver -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-02-15T13:48:08 UTC" finished-at="2021-02-15T13:48:08 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="amazon_homepage()[pri:1, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="amazon_homepage" duration-ms="1720" started-at="2021-02-15T13:48:08 UTC" finished-at="2021-02-15T13:48:10 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_homepage -->
+        <test-method status="PASS" signature="amazon_smileNGO()[pri:2, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="amazon_smileNGO" duration-ms="10006" started-at="2021-02-15T13:48:10 UTC" finished-at="2021-02-15T13:48:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_smileNGO -->
+        <test-method status="PASS" signature="amazon_subCart()[pri:3, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="amazon_subCart" duration-ms="1073" started-at="2021-02-15T13:48:20 UTC" finished-at="2021-02-15T13:48:21 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_subCart -->
+        <test-method status="PASS" signature="amazon_buy()[pri:4, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="amazon_buy" duration-ms="5249" started-at="2021-02-15T13:48:21 UTC" finished-at="2021-02-15T13:48:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon_buy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.project.amazon.test.Amazon_project_TestNG@75881071]" name="afterTest" is-config="true" duration-ms="60" started-at="2021-02-15T13:48:26 UTC" finished-at="2021-02-15T13:48:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.project.amazon.test.Amazon_project_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
