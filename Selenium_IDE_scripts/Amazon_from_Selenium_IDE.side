@@ -1,0 +1,860 @@
+{
+  "id": "0a6a7500-9400-4108-a0e0-4f7bc59104eb",
+  "version": "2.0",
+  "name": "Amazon_from_Selenium_IDE",
+  "url": "https://www.amazon.in",
+  "tests": [{
+    "id": "30af3c43-ae81-4793-a893-6798885a84c0",
+    "name": "Test1_GiftASmile",
+    "commands": [{
+      "id": "33e7d678-f983-42cf-b995-6f7f46fa1da3",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e7278aa9-b21b-4f5f-9135-334d8cb5eaee",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1050x546",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "316da7b3-6df0-4843-b941-7d40255f31e4",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4520)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f6bc5ddd-697b-4fcd-94de-b491a1beb153",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4609)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6735ab58-6fda-4ba4-a85f-928c167c016f",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4680)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0900a3cb-fac1-45bb-8429-24ad44625836",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4760)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fb41bac0-12fa-459c-8fca-b930e2a23fb3",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4815)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "637bf411-a093-4c18-a9c4-07c73c081949",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4880)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "227648ef-f482-47fd-9659-6417f1e79976",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,4960)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0d376d33-a8e5-4bd3-abaa-f2e43abd55a2",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5040)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "640ae141-0dba-430f-89ba-0744c029af6f",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5080)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c21e48ae-87a6-410c-b016-4dfcf2cdea9d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5160)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "df20ec1c-691e-4c64-ae19-bfb67873afe8",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5221)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "90343189-e3bf-445c-9d42-6b3f63a2270d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5280)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "894ecf95-c87c-4284-80b9-a2d726d382a2",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5360)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "21970f65-9d60-4411-a91e-62141035d1e8",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5440)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f7fd50d9-4243-4d24-aef6-f7fa4fd12eb0",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5520)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0319e5af-3029-488c-9044-343960a980fd",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5570)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "abdb14ea-95a8-425d-9d4e-9b2bd9aff3af",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5640)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f0684c09-60c6-4cfd-be14-8c5a218d19eb",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5717)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3276d5cc-8ee3-46e2-a885-b0522c8fc1c0",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,5758)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "38c29b13-08d9-43b2-9678-ae062958632c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Amazon Cares",
+      "targets": [
+        ["linkText=Amazon Cares", "linkText"],
+        ["css=.navFooterLinkCol:nth-child(1) li:nth-child(4) > .nav_a", "css:finder"],
+        ["xpath=//a[contains(text(),'Amazon Cares')]", "xpath:link"],
+        ["xpath=//div[@id='navFooter']/div/div/div/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/gp/browse.html?node=8872558031&ref_=footer_cares')]", "xpath:href"],
+        ["xpath=//ul/li[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Amazon Cares')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "74a594a6-9838-49ae-85a8-f7ccf026251f",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Gift a Smile",
+      "targets": [
+        ["linkText=Gift a Smile", "linkText"],
+        ["css=p:nth-child(3) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Gift a Smile')]", "xpath:link"],
+        ["xpath=//div[@id='a-page']/div[2]/div[2]/div/div[2]/div/p[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/Online-Charity/b/ref=amb_link_1?ie=UTF8&node=4594605031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-2&pf_rd_r=AY0S35QK2MMDDA9DC4T8&pf_rd_r=AY0S35QK2MMDDA9DC4T8&pf_rd_t=101&pf_rd_p=3e4fac14-ed25-4f06-9ee5-672e25b02dbf&pf_rd_p=3e4fac14-ed25-4f06-9ee5-672e25b02dbf&pf_rd_i=8872558031')]", "xpath:href"],
+        ["xpath=//p[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Gift a Smile')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d7488ff7-239b-43b6-9a69-1199e567ff65",
+      "comment": "",
+      "command": "click",
+      "target": "css=.bxc-grid__row:nth-child(13) > .bxc-grid__column:nth-child(3) img",
+      "targets": [
+        ["css=.bxc-grid__row:nth-child(13) > .bxc-grid__column:nth-child(3) img", "css:finder"],
+        ["xpath=//img[@alt='Akshaya Patra']", "xpath:img"],
+        ["xpath=//div[@id='contentGrid_292827']/div/div[13]/div[3]/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[13]/div[3]/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "86697f7c-80ba-4cd0-995b-1ac364cf658a",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1240)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "78ad4dcf-45c6-453d-912a-83813ed8da99",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1468)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "14ece969-1cb2-40cf-94c1-2587c67a5cc4",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1867)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8858e92b-9f14-4d70-8353-b2e402b2d115",
+      "comment": "",
+      "command": "click",
+      "target": "css=#pab-I1SFLV5P9L37D6 .a-button-text",
+      "targets": [
+        ["css=#pab-I1SFLV5P9L37D6 .a-button-text", "css:finder"],
+        ["xpath=(//a[contains(text(),'See all buying options')])[4]", "xpath:link"],
+        ["xpath=//span[@id='pab-I1SFLV5P9L37D6']/span/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/dp/B0781Z3BSY/?colid=2QOVAZKDFMJLZ&coliid=I1SFLV5P9L37D6&ref_=lv_vv_lig_pab')]", "xpath:href"],
+        ["xpath=//li[4]/span/div/div/div/div[2]/div[3]/div/div[2]/div/span/span/span/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8b0e3280-8e07-4ace-9cb5-91f80d184270",
+      "comment": "",
+      "command": "click",
+      "target": "id=wishListMainButton-announce",
+      "targets": [
+        ["id=wishListMainButton-announce", "id"],
+        ["linkText=Add to Wish List", "linkText"],
+        ["name=submit.add-to-registry.wishlist.unrecognized", "name"],
+        ["css=#wishListMainButton-announce", "css:finder"],
+        ["xpath=//a[contains(text(),'Add to Wish List')]", "xpath:link"],
+        ["xpath=//a[@id='wishListMainButton-announce']", "xpath:attributes"],
+        ["xpath=//span[@id='wishListMainButton']/span/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.amazon.in/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Faw%2Fd%2FB0781VQDTW&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inamazon&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&')]", "xpath:href"],
+        ["xpath=//span/span/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Add to Wish List')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d76b8440-187b-4856-8db9-00080e96aaba",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "b4b90b20-d9aa-4203-a2e0-afa6dea6c91f",
+    "name": "Test2_MedicalSupplies",
+    "commands": [{
+      "id": "1df6e92c-a608-4921-92bc-6530803fd690",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "7ecbe9bb-81b0-42ed-ac06-5149682988cb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1364x577",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "92756dcc-1245-4c0e-b03c-a5577cbd54e5",
+      "comment": "",
+      "command": "click",
+      "target": "id=twotabsearchtextbox",
+      "targets": [
+        ["id=twotabsearchtextbox", "id"],
+        ["name=field-keywords", "name"],
+        ["css=#twotabsearchtextbox", "css:finder"],
+        ["xpath=//input[@id='twotabsearchtextbox']", "xpath:attributes"],
+        ["xpath=//form[@id='nav-search-bar-form']/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "797d811c-ee7d-404e-bb33-eda3fe19d9c3",
+      "comment": "",
+      "command": "type",
+      "target": "id=twotabsearchtextbox",
+      "targets": [
+        ["id=twotabsearchtextbox", "id"],
+        ["name=field-keywords", "name"],
+        ["css=#twotabsearchtextbox", "css:finder"],
+        ["xpath=//input[@id='twotabsearchtextbox']", "xpath:attributes"],
+        ["xpath=//form[@id='nav-search-bar-form']/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "medical supplies"
+    }, {
+      "id": "f19e77d8-6a69-43f1-8113-e1cafc109373",
+      "comment": "",
+      "command": "click",
+      "target": "id=nav-search-submit-button",
+      "targets": [
+        ["id=nav-search-submit-button", "id"],
+        ["css=#nav-search-submit-button", "css:finder"],
+        ["xpath=//input[@id='nav-search-submit-button']", "xpath:attributes"],
+        ["xpath=//span[@id='nav-search-submit-text']/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "bddfef79-a140-4601-8f8b-0d1cc936089e",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.\\_multi-card-creative-desktop_BackgroundLink_link__2nWGt:nth-child(2)",
+      "targets": [
+        ["css=.\\_multi-card-creative-desktop_BackgroundLink_link__2nWGt:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='CardInstance6jWEi8dVBRS6BDAApG-u-g']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://aax-eu.amazon.in/x/c/QlHRn162Qu9s4P8NcjO7s4wAAAF3mLQ6DgMAAAH2AZBABlQ/https://www.amazon.in/stores/page/AF146C45-D6C0-4CAD-ACD2-760F7FCE4DA3/?_encoding=UTF8&store_ref=SB_A030335134P1D9WLKOSV6&pd_rd_plhdr=t&aaxitk=EQ8xq0HOT.pUsWVrPadqrA&hsa_cr_id=7872772950102&lp_asins=B07TDRX1WH%2CB07T9L8R6H%2CB07N7NK48S&lp_mat_key=category%3D%221374560031%22%20rating%3D3-4&lp_query=medical%20supplies&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=RUpwi&pf_rd_p=278da5e5-bea3-4309-a099-569b9312a94e&pd_rd_wg=gstfb&pf_rd_r=4YQQFXAQF23CTPB32J5A&pd_rd_r=96cd2e61-401c-4eb5-a46d-a50842408c72')]", "xpath:href"],
+        ["xpath=//span/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "14a6178a-e831-4396-8673-f07ef31b8703",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.\\_multi-card-creative-desktop_BackgroundLink_link__2nWGt:nth-child(2)",
+      "targets": [
+        ["css=.\\_multi-card-creative-desktop_BackgroundLink_link__2nWGt:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='CardInstance6jWEi8dVBRS6BDAApG-u-g']/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://aax-eu.amazon.in/x/c/QlHRn162Qu9s4P8NcjO7s4wAAAF3mLQ6DgMAAAH2AZBABlQ/https://www.amazon.in/stores/page/AF146C45-D6C0-4CAD-ACD2-760F7FCE4DA3/?_encoding=UTF8&store_ref=SB_A030335134P1D9WLKOSV6&pd_rd_plhdr=t&aaxitk=EQ8xq0HOT.pUsWVrPadqrA&hsa_cr_id=7872772950102&lp_asins=B07TDRX1WH%2CB07T9L8R6H%2CB07N7NK48S&lp_mat_key=category%3D%221374560031%22%20rating%3D3-4&lp_query=medical%20supplies&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=RUpwi&pf_rd_p=278da5e5-bea3-4309-a099-569b9312a94e&pd_rd_wg=gstfb&pf_rd_r=4YQQFXAQF23CTPB32J5A&pd_rd_r=96cd2e61-401c-4eb5-a46d-a50842408c72')]", "xpath:href"],
+        ["xpath=//span/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7c9d662c-0a91-4b71-8953-f28c505a9011",
+      "comment": "",
+      "command": "click",
+      "target": "css=#p_n_specials_match\\/21618256031 .a-icon",
+      "targets": [
+        ["css=#p_n_specials_match\\/21618256031 .a-icon", "css:finder"],
+        ["xpath=//li[@id='p_n_specials_match/21618256031']/span/a/div/label/i", "xpath:idRelative"],
+        ["xpath=//ul[2]/li/span/a/div/label/i", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cfd81a3f-7e38-4754-8d85-85bd8e771968",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,0)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "313438ff-6131-4d0f-8a1a-4ad78d7b10c7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sg-col-4-of-12:nth-child(3) .a-size-base-plus",
+      "targets": [
+        ["css=.sg-col-4-of-12:nth-child(3) .a-size-base-plus", "css:finder"],
+        ["xpath=//div[@id='search']/div/div[2]/div/span[3]/div[2]/div[3]/div/span/div/div/div[2]/h2/a/span", "xpath:idRelative"],
+        ["xpath=//h2/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ccf3ea74-b654-4269-83ae-1438f278d2c4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sg-col-4-of-12:nth-child(3) .a-size-base-plus",
+      "targets": [
+        ["css=.sg-col-4-of-12:nth-child(3) .a-size-base-plus", "css:finder"],
+        ["xpath=//div[@id='search']/div/div[2]/div/span[3]/div[2]/div[3]/div/span/div/div/div[2]/h2/a/span", "xpath:idRelative"],
+        ["xpath=//h2/a/span", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win8577",
+      "windowTimeout": 2000
+    }, {
+      "id": "789bfc7e-fcd1-43cf-b15b-8850e767b802",
+      "comment": "",
+      "command": "storeWindowHandle",
+      "target": "root",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c69e8652-415d-4591-a1c3-3fc8dddf08eb",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win8577}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "236b01d5-c633-4f6d-8e6a-3735461240de",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b52c7fc7-cfe3-49ec-9ae1-8fc07b0bbb46",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "css=.sg-col-4-of-12:nth-child(3) .a-size-base-plus",
+      "targets": [
+        ["css=.sg-col-4-of-12:nth-child(3) .a-size-base-plus", "css:finder"],
+        ["xpath=//div[@id='search']/div/div[2]/div/span[3]/div[2]/div[3]/div/span/div/div/div[2]/h2/a/span", "xpath:idRelative"],
+        ["xpath=//h2/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a9f9f526-1e60-4439-8509-7e2b052decbe",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win8577}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5a801d06-5b6f-4f73-a250-7a3802daed5d",
+      "comment": "",
+      "command": "click",
+      "target": "id=title",
+      "targets": [
+        ["id=title", "id"],
+        ["css=#title", "css:finder"],
+        ["xpath=//h1[@id='title']", "xpath:attributes"],
+        ["xpath=//div[@id='titleSection']/h1", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'Dettol Liquid Disinfectant for Multi-Purpose Germ Protection, Menthol Cool, 500 ml')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b459b20b-f6b2-40d5-94ba-19e661b17ba8",
+      "comment": "",
+      "command": "storeText",
+      "target": "id=title",
+      "targets": [
+        ["id=title", "id"],
+        ["css=#title", "css:finder"],
+        ["xpath=//h1[@id='title']", "xpath:attributes"],
+        ["xpath=//div[@id='titleSection']/h1", "xpath:idRelative"],
+        ["xpath=//div[4]/div/div/h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'Dettol Liquid Disinfectant for Multi-Purpose Germ Protection, Menthol Cool, 500 ml')]", "xpath:innerText"]
+      ],
+      "value": "Dettol"
+    }, {
+      "id": "69eeb2f4-30ed-441f-8e20-e4841f0e8a57",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=productTitle",
+      "targets": [
+        ["id=productTitle", "id"],
+        ["css=#productTitle", "css:finder"],
+        ["xpath=//span[@id='productTitle']", "xpath:attributes"],
+        ["xpath=//h1[@id='title']/span", "xpath:idRelative"],
+        ["xpath=//h1/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Dettol Liquid Disinfectant for Multi-Purpose Germ Protection, Menthol Cool, 500 ml')]", "xpath:innerText"]
+      ],
+      "value": "Dettol Liquid Disinfectant for Multi-Purpose Germ Protection, Menthol Cool, 500 ml"
+    }, {
+      "id": "37c1d1e0-195b-4dac-9a28-fe5d9789eb6f",
+      "comment": "",
+      "command": "click",
+      "target": "css=#dealOrderQuantity > .a-size-base:nth-child(2)",
+      "targets": [
+        ["css=#dealOrderQuantity > .a-size-base:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='dealOrderQuantity']/span[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div[2]/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "39bf5806-d779-4501-bff9-ad4278b2505d",
+      "comment": "",
+      "command": "storeText",
+      "target": "css=#dealOrderQuantity > .a-size-base:nth-child(2)",
+      "targets": [
+        ["css=#dealOrderQuantity > .a-size-base:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='dealOrderQuantity']/span[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div[2]/span[2]", "xpath:position"]
+      ],
+      "value": "quantity"
+    }, {
+      "id": "eded44eb-508e-4f4a-a223-a3eeef84ad3e",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=#dealOrderQuantity > .a-size-base:nth-child(2)",
+      "targets": [
+        ["css=#dealOrderQuantity > .a-size-base:nth-child(2)", "css:finder"],
+        ["xpath=//div[@id='dealOrderQuantity']/span[2]", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div[2]/span[2]", "xpath:position"]
+      ],
+      "value": "1"
+    }, {
+      "id": "a20cb095-03f7-4d4f-afd4-8efa87fa0b2c",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=a-autoid-0-announce",
+      "targets": [
+        ["id=a-autoid-0-announce", "id"],
+        ["linkText=Add to Cart", "linkText"],
+        ["css=#a-autoid-0-announce", "css:finder"],
+        ["xpath=//a[contains(text(),'Add to Cart')]", "xpath:link"],
+        ["xpath=//a[@id='a-autoid-0-announce']", "xpath:attributes"],
+        ["xpath=//span[@id='a-autoid-0']/span/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/ap/signin?_encoding=UTF8&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fdeal%2FclaimDeal.html%3F_encoding%3DUTF8%26marketplaceID%3DA21TJRUUN4KGV%26dealID%3D885e5828%26hmac%3DVkeNIGQVI%252F%252FO8c8RU1%252B9OGIBwZ4%253D%26asin%3DB0755KPWFW%26dest%3D%252Fdp%252FB0755KPWFW&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0')]", "xpath:href"],
+        ["xpath=//span/span/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Add to Cart')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5ae7b243-ca25-42ac-91da-179d081f21d5",
+      "comment": "",
+      "command": "click",
+      "target": "id=a-autoid-0-announce",
+      "targets": [
+        ["id=a-autoid-0-announce", "id"],
+        ["linkText=Add to Cart", "linkText"],
+        ["css=#a-autoid-0-announce", "css:finder"],
+        ["xpath=//a[contains(text(),'Add to Cart')]", "xpath:link"],
+        ["xpath=//a[@id='a-autoid-0-announce']", "xpath:attributes"],
+        ["xpath=//span[@id='a-autoid-0']/span/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/ap/signin?_encoding=UTF8&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fdeal%2FclaimDeal.html%3F_encoding%3DUTF8%26marketplaceID%3DA21TJRUUN4KGV%26dealID%3D885e5828%26hmac%3DVkeNIGQVI%252F%252FO8c8RU1%252B9OGIBwZ4%253D%26asin%3DB0755KPWFW%26dest%3D%252Fdp%252FB0755KPWFW&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0')]", "xpath:href"],
+        ["xpath=//span/span/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Add to Cart')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4bb07b1c-254d-410d-bc42-1ac1ca49f111",
+      "comment": "",
+      "command": "type",
+      "target": "id=ap_email",
+      "targets": [
+        ["id=ap_email", "id"],
+        ["name=email", "name"],
+        ["css=#ap_email", "css:finder"],
+        ["xpath=//input[@id='ap_email']", "xpath:attributes"],
+        ["xpath=//div[@id='authportal-main-section']/div[2]/div/div/form/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "Enter email"
+    }, {
+      "id": "ba3c22b5-f214-45a1-8164-96d025222942",
+      "comment": "",
+      "command": "mouseDownAt",
+      "target": "css=.a-button-inner > #continue",
+      "targets": [
+        ["css=.a-button-inner > #continue", "css:finder"],
+        ["xpath=//input[@id='continue']", "xpath:attributes"],
+        ["xpath=//span[@id='continue']/span/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": "246.5,15"
+    }, {
+      "id": "fc81c655-be7d-45b4-acfd-58b33658fafa",
+      "comment": "",
+      "command": "mouseMoveAt",
+      "target": "css=.a-button-inner > #continue",
+      "targets": [
+        ["css=.a-button-inner > #continue", "css:finder"],
+        ["xpath=//input[@id='continue']", "xpath:attributes"],
+        ["xpath=//span[@id='continue']/span/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": "246.5,15"
+    }, {
+      "id": "18c6fe6d-ff57-4fd7-884f-20701c58568a",
+      "comment": "",
+      "command": "mouseUpAt",
+      "target": "css=.a-button-inner > #continue",
+      "targets": [
+        ["css=.a-button-inner > #continue", "css:finder"],
+        ["xpath=//input[@id='continue']", "xpath:attributes"],
+        ["xpath=//span[@id='continue']/span/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": "246.5,15"
+    }, {
+      "id": "d8057b6d-3767-46e6-a65d-3f8ffe463d9b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-button-inner > #continue",
+      "targets": [
+        ["css=.a-button-inner > #continue", "css:finder"],
+        ["xpath=//input[@id='continue']", "xpath:attributes"],
+        ["xpath=//span[@id='continue']/span/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "303eefa8-f9bb-4a50-94e2-f8acfc71334c",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8e57cc6e-0665-4a39-b02e-482d06e1f6bd",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "717ecf44-93d3-40e5-92cc-1820495808ed",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "43cd58ce-c78d-4726-bd85-ec8768363cfe",
+    "name": "Test3_LED",
+    "commands": [{
+      "id": "d718321a-0dd6-4653-9bfe-d201f6a19872",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a0accc5a-c520-473d-97ef-2d95f99ca71b",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1364x577",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0b88fe1b-aadd-4d02-9668-bf73e1cc0bdb",
+      "comment": "",
+      "command": "click",
+      "target": "id=twotabsearchtextbox",
+      "targets": [
+        ["id=twotabsearchtextbox", "id"],
+        ["name=field-keywords", "name"],
+        ["css=#twotabsearchtextbox", "css:finder"],
+        ["xpath=//input[@id='twotabsearchtextbox']", "xpath:attributes"],
+        ["xpath=//form[@id='nav-search-bar-form']/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c2c676d4-c34f-4dd0-b081-cbda2b4e81e4",
+      "comment": "",
+      "command": "type",
+      "target": "id=twotabsearchtextbox",
+      "targets": [
+        ["id=twotabsearchtextbox", "id"],
+        ["name=field-keywords", "name"],
+        ["css=#twotabsearchtextbox", "css:finder"],
+        ["xpath=//input[@id='twotabsearchtextbox']", "xpath:attributes"],
+        ["xpath=//form[@id='nav-search-bar-form']/div[2]/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "LED bulb"
+    }, {
+      "id": "cc3b1c9e-d29c-43dc-9c0a-6a0529679563",
+      "comment": "",
+      "command": "click",
+      "target": "id=nav-search-submit-button",
+      "targets": [
+        ["id=nav-search-submit-button", "id"],
+        ["css=#nav-search-submit-button", "css:finder"],
+        ["xpath=//input[@id='nav-search-submit-button']", "xpath:attributes"],
+        ["xpath=//span[@id='nav-search-submit-text']/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b48045ab-9b3f-45fc-b49b-6a9f25a5e630",
+      "comment": "",
+      "command": "click",
+      "target": "css=.\\_multi-card-creative-desktop_DesktopGridColumn_gridColumn__36SB1:nth-child(3) .a-truncate-cut",
+      "targets": [
+        ["css=.\\_multi-card-creative-desktop_DesktopGridColumn_gridColumn__36SB1:nth-child(3) .a-truncate-cut", "css:finder"],
+        ["xpath=//div[@id='CardInstancepNFBqnuaj2reytEoQUQQWA']/div/div[2]/div[3]/div/div[2]/a/span/span[2]", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div[2]/a/span/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d651671c-e4f1-4752-8d22-5318f0719047",
+      "comment": "",
+      "command": "click",
+      "target": "id=productTitle",
+      "targets": [
+        ["id=productTitle", "id"],
+        ["css=#productTitle", "css:finder"],
+        ["xpath=//span[@id='productTitle']", "xpath:attributes"],
+        ["xpath=//h1[@id='title']/span", "xpath:idRelative"],
+        ["xpath=//h1/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Philips Inverter Bulb 12 Watt Rechargeable Emergency LED Bulb for Home, Cool Daylight, Base B22')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c26daae-d412-4e32-925d-d75f8acebf41",
+      "comment": "",
+      "command": "storeText",
+      "target": "id=productTitle",
+      "targets": [
+        ["id=productTitle", "id"],
+        ["css=#productTitle", "css:finder"],
+        ["xpath=//span[@id='productTitle']", "xpath:attributes"],
+        ["xpath=//h1[@id='title']/span", "xpath:idRelative"],
+        ["xpath=//h1/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Philips Inverter Bulb 12 Watt Rechargeable Emergency LED Bulb for Home, Cool Daylight, Base B22')]", "xpath:innerText"]
+      ],
+      "value": "Philips"
+    }, {
+      "id": "acc864b6-23d4-4b10-8d2c-ab0f5a9bba19",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=Home Improvement",
+      "targets": [
+        ["linkText=Home Improvement", "linkText"],
+        ["css=.nav-hasArrow:nth-child(8)", "css:finder"],
+        ["xpath=//div[@id='nav-subnav']/a[8]", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/b/?_encoding=UTF8&node=4286640031&ref_=sv_top_hk_mega_7')]", "xpath:href"],
+        ["xpath=//div[6]/div/a[8]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dc6d4518-509c-4767-9671-06d4f01d6873",
+      "comment": "",
+      "command": "assertText",
+      "target": "id=productTitle",
+      "targets": [
+        ["id=productTitle", "id"],
+        ["css=#productTitle", "css:finder"],
+        ["xpath=//span[@id='productTitle']", "xpath:attributes"],
+        ["xpath=//h1[@id='title']/span", "xpath:idRelative"],
+        ["xpath=//h1/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Philips Inverter Bulb 12 Watt Rechargeable Emergency LED Bulb for Home, Cool Daylight, Base B22')]", "xpath:innerText"]
+      ],
+      "value": "Philips Inverter Bulb 12 Watt Rechargeable Emergency LED Bulb for Home, Cool Daylight, Base B22"
+    }, {
+      "id": "577b161d-47e0-45b5-abd9-c964115e44ff",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=title",
+      "targets": [
+        ["id=title", "id"],
+        ["css=#title", "css:finder"],
+        ["xpath=//h1[@id='title']", "xpath:attributes"],
+        ["xpath=//div[@id='titleSection']/h1", "xpath:idRelative"],
+        ["xpath=//h1", "xpath:position"],
+        ["xpath=//h1[contains(.,'Philips Inverter Bulb 12 Watt Rechargeable Emergency LED Bulb for Home, Cool Daylight, Base B22')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dbeaac08-0208-4dd4-bc31-d5709977c097",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=add-to-cart-button",
+      "targets": [
+        ["id=add-to-cart-button", "id"],
+        ["name=submit.add-to-cart", "name"],
+        ["css=#add-to-cart-button", "css:finder"],
+        ["xpath=//input[@id='add-to-cart-button']", "xpath:attributes"],
+        ["xpath=//span[@id='submit.add-to-cart']/span/input", "xpath:idRelative"],
+        ["xpath=//span/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9aeeef51-57f8-428f-acba-4e113c962d18",
+      "comment": "",
+      "command": "click",
+      "target": "id=add-to-cart-button",
+      "targets": [
+        ["id=add-to-cart-button", "id"],
+        ["name=submit.add-to-cart", "name"],
+        ["css=#add-to-cart-button", "css:finder"],
+        ["xpath=//input[@id='add-to-cart-button']", "xpath:attributes"],
+        ["xpath=//span[@id='submit.add-to-cart']/span/input", "xpath:idRelative"],
+        ["xpath=//span/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c4e4d7c1-6802-4244-94d3-61b392464d75",
+      "comment": "",
+      "command": "assertElementPresent",
+      "target": "id=hlb-ptc-btn-native",
+      "targets": [
+        ["id=hlb-ptc-btn-native", "id"],
+        ["linkText=Proceed to Buy (1 item)", "linkText"],
+        ["css=#hlb-ptc-btn-native", "css:finder"],
+        ["xpath=//a[contains(text(),'Proceed to Buy (1 item)')]", "xpath:link"],
+        ["xpath=//a[@id='hlb-ptc-btn-native']", "xpath:attributes"],
+        ["xpath=//span[@id='hlb-ptc-btn']/span/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.amazon.in/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_in&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_in&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0')]", "xpath:href"],
+        ["xpath=//span[2]/span/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Proceed to Buy (1 item)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b29da572-4b34-482d-a623-63d209744378",
+      "comment": "",
+      "command": "click",
+      "target": "id=hlb-ptc-btn-native",
+      "targets": [
+        ["id=hlb-ptc-btn-native", "id"],
+        ["linkText=Proceed to Buy (1 item)", "linkText"],
+        ["css=#hlb-ptc-btn-native", "css:finder"],
+        ["xpath=//a[contains(text(),'Proceed to Buy (1 item)')]", "xpath:link"],
+        ["xpath=//a[@id='hlb-ptc-btn-native']", "xpath:attributes"],
+        ["xpath=//span[@id='hlb-ptc-btn']/span/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.amazon.in/ap/signin?_encoding=UTF8&openid.assoc_handle=amazon_checkout_in&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2Fgp%2Fbuy%2Fsignin%2Fhandlers%2Fcontinue.html%3Fie%3DUTF8%26brandId%3D%26cartItemIds%3D%26eGCApp%3D%26hasWorkingJavascript%3D0%26isEGCOrder%3D0%26isFresh%3D0%26oldCustomerId%3D%26oldPurchaseId%3D%26preInitiateCustomerId%3D%26purchaseInProgress%3D%26ref_%3Dcart_signin_submit%26siteDesign%3D&pageId=amazon_checkout_in&showRmrMe=0&siteState=isRegularCheckout.1%7CIMBMsgs.%7CisRedirect.0')]", "xpath:href"],
+        ["xpath=//span[2]/span/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Proceed to Buy (1 item)')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "094746bb-798c-4fed-a548-c80e4e157957",
+      "comment": "",
+      "command": "type",
+      "target": "id=ap_email",
+      "targets": [
+        ["id=ap_email", "id"],
+        ["name=email", "name"],
+        ["css=#ap_email", "css:finder"],
+        ["xpath=//input[@id='ap_email']", "xpath:attributes"],
+        ["xpath=//div[@id='authportal-main-section']/div[2]/div/div/form/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "[Enter email]"
+    }, {
+      "id": "c2c039a3-c6fd-417c-a8c5-dfa7abc8e526",
+      "comment": "",
+      "command": "click",
+      "target": "css=.a-button-inner > #continue",
+      "targets": [
+        ["css=.a-button-inner > #continue", "css:finder"],
+        ["xpath=//input[@id='continue']", "xpath:attributes"],
+        ["xpath=//span[@id='continue']/span/input", "xpath:idRelative"],
+        ["xpath=//span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "97ba9721-87d9-4291-bdf7-1cda4312faac",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "c36db32c-93ea-4e96-922e-a6f1e0b21750",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["30af3c43-ae81-4793-a893-6798885a84c0"]
+  }],
+  "urls": ["https://www.amazon.in/"],
+  "plugins": []
+}
